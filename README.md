@@ -20,3 +20,5 @@
 | 9               | 16-18 sec          |
 
 [Пример использования модели](https://colab.research.google.com/drive/1rVQUzmUHzefIxYDj_PE2Kytbtvvn-4w3?usp=sharing)
+
+Пока что модель не всегда показывает точный результат. Её нужно дообучивать на большем количестве данных.
